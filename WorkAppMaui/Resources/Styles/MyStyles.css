@@ -1,0 +1,11 @@
+﻿.nappi {
+  padding: 20;
+  background-color: red;
+  margin-left: 40;
+  margin-right: 40;
+  border-radius: 40;
+}
+
+﻿.LatausLabel {
+    font-size: 26;
+}
